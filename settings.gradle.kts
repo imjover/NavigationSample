@@ -21,5 +21,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Fragment Sample"
+rootProject.name = "Navigation Sample"
 include(":app")
